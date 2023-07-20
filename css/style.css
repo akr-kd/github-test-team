@@ -26,9 +26,9 @@ p {
   background-color: aqua;
   margin: auto;
   position: absolute;
-  transform: translate(50%);
+  transform: translate(50%, 50%);
 }
 .square .square1:hover {
   cursor: pointer;
-  background-color: black;
+  background-color: #119e0c;
 }/*# sourceMappingURL=style.css.map */
